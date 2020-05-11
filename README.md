@@ -9,7 +9,7 @@ pip install spotipy pyfiglet colorama progressbar2
 ```
 ## Quick Start
 
-To get started, install SpotiHide and create an app on https://developers.spotify.com/. Configure your new USERNAME, SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET and SPOTIPY_REDIRECT_URI. We have to set up the alphabet in the ALPHABET_PLAYLIST, composed of at least 16 songs with 16 different artists:
+To get started, install SpotiHide and create an app on https://developers.spotify.com/. Configure your new USERNAME, SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET and SPOTIPY_REDIRECT_URI. Set up the MESSAGE_PLAYLIST where the message will be encoded and decoded and the alphabet in the ALPHABET_PLAYLIST, composed of at least 16 songs with the first 16 different artists:
 
 ```bash
 USERNAME = USERNAME
