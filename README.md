@@ -25,7 +25,7 @@ SPOTIPY_REDIRECT_URI = SPOTIPY_REDIRECT_URI
 ```bash
 python3 SpotiHide.py
 [*] Alphabet Username [Default: USERNAME]:
-[*] Alphabet Playlist [Default: APT_ALPHABET]:
+[*] Alphabet Playlist [Default: ALPHABET_PLAYLIST]:
 [*] Enter a message:
 [*] Encoding Cool Stuff \O/ \O/ \O/ \O/ [? Bytes]
 [Successfully Encoded]
