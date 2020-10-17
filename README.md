@@ -1,6 +1,6 @@
 # SpotiHide
 
-##### Steganography tool to hide messages in public playlists of Spotify
+##### Steganographic tool to hide messages in public playlists of Spotify
 
 ## Installation
 
